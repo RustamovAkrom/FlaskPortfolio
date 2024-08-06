@@ -1,0 +1,6 @@
+__pycache__/
+word.py
+.idea/
+.vscode/
+migrations/
+instance/
